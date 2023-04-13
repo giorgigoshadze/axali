@@ -1,0 +1,254 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background:url(Background.png);
+    background-size: cover;
+}
+
+.container{
+             Display: flex;
+             justify-content: space-between;
+             height: 900px;
+             width: 1440px;
+             
+             
+}
+.text1{
+             font-family: 'Poppins';
+             font-style: normal;
+             font-weight: 600;
+             font-size: 72px;
+             line-height: 82px;
+             letter-spacing: -4px;
+             color: #FFFFFF;
+}
+
+.text2{
+             font-family: 'Roboto';
+             font-style: normal;
+             font-weight: 400;
+             font-size: 22px;
+             line-height: 34px;
+             letter-spacing: -0.2px;
+             color: #FFFFFF;
+}
+.satauri{
+             text-align: center;
+             margin-top: -30px;
+             letter-spacing: 2px;
+             font-family: 'Poppins';
+             font-style: normal;
+             font-weight: 600;
+             font-size: 16px;
+             line-height: 21px;
+             color: #FFFFFF;
+}
+
+.card1{
+             height: 246px;
+             width: 555px;
+             margin-top: 267px;
+             margin-left: 170px;
+             
+             
+}
+
+.card2{
+             height: 184px;
+             width: 460px;
+             margin-top: 300px;
+             margin-right: 125px;
+             border-radius: 5px 5px 0px 0px;            
+             border: 2px solid rgba(255, 255, 255, 0.3);
+             color: #FFFFFF;
+             
+}
+.wichka{
+    margin-left: 300px;
+}
+::placeholder{
+    color: #FFFFFF;
+}
+.saxeli{
+             height: 28px;
+             width: 60px;                
+             font-family: 'Roboto';
+             font-style: normal;
+             font-weight: 400;
+             font-size: 18px;
+             line-height: 28px;
+             margin: 10px;
+             margin-top: 25px;
+             margin-left: 20px;
+             border: hidden;     
+             background-color: transparent;
+}
+.maili{
+             height: 28px;
+             width: 60px;            
+             font-family: 'Roboto';
+             font-style: normal;
+             font-weight: 400;
+             font-size: 18px;
+             line-height: 28px;
+             margin-left: 20px;
+             margin-top: 13px;            
+             border: hidden;
+             background-color: transparent;
+}
+.paroli{
+             height: 28px;
+             width: 81px;            
+             font-family: 'Roboto';
+             font-style: normal;
+             font-weight: 400;
+             font-size: 18px;
+             line-height: 28px;
+             margin-left: 20px;
+             margin-top: 15px;             
+             border: hidden;
+             background-color: transparent;
+}
+.gilaki{
+             font-family: 'Roboto';
+             font-style: normal;
+             font-weight: 500;
+             font-size: 18px;                        
+             height: 60px;
+             width: 459px;
+             background: #FF3B30;
+             border-radius: 0px 0px 4px 4px;                
+             margin-top: -4px;
+             color: #FFFFFF;
+             border: none;
+}
+.isari{
+    margin-left: 10px;
+}
+.ujra{
+             Width:460px;
+             Height:36px;
+             color: #9B9B9B;
+             text-align: center;
+             margin-top: 30px;
+             font-family: 'Roboto';
+             font-style: normal;
+             font-weight: 400;
+             font-size: 14px;             
+}
+
+.text4{
+             margin-top:-15px;
+             text-align: center;
+             color:   #FFFFFF
+}
+
+
+
+.marcxenatext{
+              display: inline-block;
+              margin-top: -25px;
+              margin-left: 74px;
+              font-family: 'Poppins';
+              font-style: normal;
+              font-weight: 900;
+              font-size: 27.451px;
+              line-height: 27px;
+              color: #FFFFFF;
+}
+.kvadr{
+              margin-left: 24px;
+              margin-top: 28px;
+}
+.marjvenatext{
+              display: inline-block;
+              font-family: 'Roboto';
+              font-style: normal;
+              font-weight: 400;
+              font-size: 18px;
+              line-height: 21px;
+              display: flex;
+              justify-content: right;
+              margin-right: 100px;
+              margin-top: -30px;
+              color: #FFFFFF;
+}
+.marjvena,.gogo{
+              display: flex;
+              justify-content: right;
+              border-radius: 30px;
+              margin-right: 90px;
+              margin-top: -25px;
+}
+
+.ft{
+              margin-top: 281px;
+              margin-left: 44px;
+              font-family: 'Roboto';
+              font-style: normal;
+              font-weight: 400;
+              font-size: 14px;
+              line-height: 16px;
+              color: #FFFFFF;
+              
+}
+
+.bolo1{
+              margin-left: 193px;
+              font-family: 'Poppins';
+              font-style: normal;
+              font-weight: 600;
+              font-size: 14px;
+              line-height: 24px;
+              color: #FFFFFF;
+}
+.bolo2{
+              margin-left: 31px;
+              font-family: 'Poppins';
+              font-style: normal;
+              font-weight: 600;
+              font-size: 14px;
+              line-height: 24px;
+              color: #FFFFFF;
+}
+.bolo3{
+              margin-left: 33px;
+              font-family: 'Poppins';
+              font-style: normal;
+              font-weight: 600;
+              font-size: 14px;
+              line-height: 24px;
+              color: #FFFFFF;
+}
+.bolo4{
+              margin-left: 34px;
+              font-family: 'Poppins';
+              font-style: normal;
+              font-weight: 600;
+              font-size: 14px;
+              line-height: 24px;
+              color: #FFFFFF;
+}
+.twiteri{
+              margin-left: 370px;
+}
+.facebooki{
+              margin-left: 20px;
+}
+.youtube{
+              margin-left: 20px;
+}
+.xazi{
+    width: 458px;
+    height: 1px;
+    background-color: #FFFFFF;
+    margin-top: 10px;
+    
+}
+.xazi2{
+    width: 458px;
+    height: 1px;
+    background-color: #FFFFFF;
+    margin-top: 20px;
+}
